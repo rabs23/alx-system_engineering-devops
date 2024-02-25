@@ -1,1 +1,1 @@
-0x09-web_infrastructure_design
+Web Infrastructure Design is a team project and I collaborated with  Mohammed El-Hathout. We used a whiteboard to explain how the internet work and the processes involved. Links are provided to every picture for each task in the files created.
